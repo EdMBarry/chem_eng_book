@@ -163,9 +163,7 @@ mybookname/
 ├── _bibliography
     └── references.bib
 ```
-
-This BiBTex file can be used along with the `jekyll-scholar` extension. For more information
-on how to use citations in Jupyter Book, see [Citations with Jupyter Book](../features/citations)
+It appears that gh-pages will not use jekyll scholar so in order to use citations, you need another hosting service.
 
 ## Custom Javascript and CSS
 
